@@ -55,7 +55,7 @@ Without a key the app runs on realistic synthetic baseline data.
 ## Project Structure
 
 ```
-butterfly-simulator/
+ShockWave_AI/
 ├── frontend/          # Vite + React app
 │   └── src/
 │       ├── components/
